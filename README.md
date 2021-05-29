@@ -1,2 +1,2 @@
 # tp-contract
-The tokenswap contract base one XWC chain
+The tokenswap contract that base on XWC chain
